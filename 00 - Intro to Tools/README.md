@@ -122,11 +122,6 @@ Credits to [saloot](https://github.com/saloot) and [Michele Catasta](https://git
 
 ## Part 3: Homework 0
 
-Agree to work in groups of 4 people. Take the first homework as an opportunity to get to know your team: you can change before the second homework, after it the groups are made (also for the project!). Four persons is mandatory, only motivated exceptions will be accepted. Use Mattermost or other means to find a team if in need!
+Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada-2019/Homework/tree/master/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
-Access homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada-2019/Homework/tree/master/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
-
-For homework 0, *one* member per group has to use the [this link](https://classroom.github.com/g/eOXaZkyS) to register a team for the exercise and invite the other members, which will create your *team repository for the exercise*.
-Also, remember to register [here](https://go.epfl.ch/ada2019-signup) by Tuesday, October 1. Every member of the team should register with his/her email and the team name.
-
-On Thursday, October 3rd, the next “graded” homework will be released, along with a tutorial on Pandas.
+On Thursday, October 3, the first graded homework ("Homework 1") will be released.
