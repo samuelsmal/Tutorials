@@ -116,7 +116,7 @@ jupyter serverextension enable --sys-prefix jupyter_nbextensions_configurator nb
 
 ## Part 2: Overview of Jupyter notebooks
 
-In this tutorial we explore the functionalities of the Jupyter notebooks. In this repository you can find the notebook we use during the tutorial.
+In [this tutorial](Intro%20to%20Jupyter%20Notebooks.ipynb) we explore the functionalities of the Jupyter notebooks. In this repository you can find the notebook we use during the tutorial.
 
 Credits to [saloot](https://github.com/saloot) and [Michele Catasta](https://github.com/pirroh), on whose material this version is based.
 
