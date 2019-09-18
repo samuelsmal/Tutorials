@@ -127,6 +127,6 @@ Agree to work in groups of 4 people. Take the first homework as an opportunity t
 Access homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada-2019/Homework/tree/master/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
 For homework 0, *one* member per group has to use the [this link](https://classroom.github.com/g/eOXaZkyS) to register a team for the exercise and invite the other members, which will create your *team repository for the exercise*.
-Also, remember to register BY TUESDAY, October 1 [here](https://docs.google.com/forms/d/e/1FAIpQLSfUhAtCwpIB0h8aDwPf5LrkwDSGGjZ0ly3sU7RTcron-sg_BA/viewform). Every member of the team should register with his/her email and the team name. 
+Also, remember to register [here](https://go.epfl.ch/ada2019-signup) by Tuesday, October 1. Every member of the team should register with his/her email and the team name. 
 
 On Thursday, October 3rd, the next “graded” homework will be released, along with a tutorial on Pandas.
